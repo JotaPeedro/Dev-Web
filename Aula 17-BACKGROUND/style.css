@@ -1,0 +1,15 @@
+div{
+    width: 500px;
+    height: 300px;
+    background-color: coral;
+    background-image: url(../Arquivos/carro.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+p{
+    color:lightgreen;
+    background-image: url(../Arquivos/carro.jp);
+    background-size: cover;
+    background-attachment: fixed;
+}

@@ -1,0 +1,18 @@
+.quadrado{
+    height: 100px;
+    width: 200px;
+    background-color: blue;
+    margin: auto;
+}
+
+p{
+    width: 400px;
+    margin:auto
+    
+}
+
+.imagem{
+
+    text-align: center;
+
+}

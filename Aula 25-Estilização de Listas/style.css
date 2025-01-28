@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    border: 1px solid;
+    list-style-position: inside;
+}
+
+li{
+    background-color:burlywood;
+    margin: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    
+}
+
+ol{
+    list-style:upper-alpha;
+    list-style-position: inside;
+    background-color: cornflowerblue;
+    padding: 10px;
+    
+}
+

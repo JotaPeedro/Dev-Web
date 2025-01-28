@@ -1,0 +1,30 @@
+h1{
+    color: red;
+
+}
+
+body{
+    background-color: grey;
+}
+
+#cabecalho{
+    background-color: green;
+}
+
+.paragrafo{
+    color: blue;
+}
+
+.fundo-amarelo{
+    background-color: yellow;
+}
+
+
+.texto-azul{
+    color: blue;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}

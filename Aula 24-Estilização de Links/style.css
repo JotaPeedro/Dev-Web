@@ -1,0 +1,22 @@
+a{
+    background-color: aqua ;
+    padding: 15px;
+    color: black;
+    text-decoration: none;
+    border-radius: 0 0 15px 15px;
+}
+a:visited{
+    background-color: blueviolet;
+    /*Altera os links que já foram abertos*/
+}
+
+a:hover{
+    background-color: darkcyan;
+    color: white;
+    /*Alterações quando o mouse estiver no link*/
+}
+
+a:active{
+    background-color: midnightblue;
+    /*Alterações quando clicar no link*/
+}

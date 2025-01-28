@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.primeira{
+    height: 100px;
+    width: 100px;
+    padding: 10px;
+    border: 10px solid black;
+    background-color: blue ;
+    color: white;
+    box-sizing:border-box;
+
+    /*O box sizing faz com que intependente das bordas e padding,ele irá manter o mesmo tamanho que foi dado no inicio de altura e largura*/
+}
+
+.segunda{
+    height: 100px;
+    width: 100px;
+    background-color: red ;
+    color: white;
+}

@@ -1,0 +1,28 @@
+   body{
+    margin: 0;
+    padding: 0;
+
+   }
+   
+   .primeira{
+        height: 200px;
+        width: 300px;
+        background-color: blue;
+        color: black;
+        overflow-x:auto;
+/*Overflow faz com que tudo dentro caiba dentro da div,o scroll faz com que 
+ele apareça um scroll dentro da div para vermos o resto do conteudo*/ 
+    }
+
+    .segunda{
+        height: 100px;
+        width: 300px;
+        color: white;
+        background-color: red;
+      
+        
+    }
+
+p{
+    width: 400px;
+}
